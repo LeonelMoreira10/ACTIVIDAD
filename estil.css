@@ -2,6 +2,8 @@ body{
     border: dashed 5px blueviolet;
     background-color: aqua;
     border-radius:5% 5% 5% 5%;
+    background-image: url(https://www.elgrafico.com.ar/media/cache/pub_news_details_large/media/i/42/c3/42c3f7418f981eae673f5aa5ccf53286939d41a4.jpg); 
+
 }
 
 h2{
@@ -36,13 +38,11 @@ h2{
 }
 
 
-
 .img{
     width:15%;
     border-radius:10% 10% 10% 10%;
     border:5px solid red;
     margin-left: 42%;
-    
 }
 
 .ferch{
